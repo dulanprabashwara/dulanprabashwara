@@ -3,7 +3,7 @@
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 
-- 🔭 I’m currently studying at **`university of moratuwa .**
+- 🔭 I’m currently studying at **university of moratuwa .**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Mernstack.**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
@@ -12,7 +12,7 @@
 <br/>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dulanprabashwara&label=Profile%20views&color=0e75b6&style=flat" alt="dulanprabashwara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanprabashwara&label=Profile%20views&color=0e75b6&style=flat" alt="dulanprabashwara" /> </p>
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulanprabashwara" alt="dulanprabashwara" /></a> </p>
 
