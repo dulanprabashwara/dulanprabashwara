@@ -128,14 +128,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="32" height="32"/>
 </a>
 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="32" height="32"/>
-</a>
-
-<a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="32" height="32"/>
-</a>
-
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="32" height="32"/>
 </a>
